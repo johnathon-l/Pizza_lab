@@ -1,10 +1,6 @@
-shop:
+\shop:
   name: "Blue Devil Pizza"
-<<<<<<< HEAD
   tax_rate: 0.055  # 5.5% (tweak this for the merge-conflict exercise)
-=======
-  tax_rate: 0.07  # 5.5% (tweak this for the merge-conflict exercise)
->>>>>>> feature/price-update
 sizes:
   small: 8.00
   medium: 11.00
