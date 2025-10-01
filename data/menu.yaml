@@ -1,4 +1,4 @@
-\shop:
+shop:
   name: "Blue Devil Pizza"
   tax_rate: 0.055  # 5.5% (tweak this for the merge-conflict exercise)
 sizes:
